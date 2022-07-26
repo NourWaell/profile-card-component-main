@@ -18,8 +18,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/profilecardcomponentmain-using-html-and-css-F85cpTxSjq]
+- Live Site URL: [https://profile-card-component-main-ten-mu.vercel.app/]
 
 ### Built with
 
